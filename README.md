@@ -5,6 +5,7 @@
 ## 第一周
 
 - git 学习 - [git学会这些就够了](https://linkasage.github.io/posts/125dfa57.html)
+- Linux/Shell学习 - 
 
 
 
